@@ -1,0 +1,21 @@
+{
+  "product": {
+    "repository": "fluid-physics-preset-share",
+    "title": "流体・物理プリセット共有"
+  },
+  "items": [
+    {
+      "id": "fluid-physics-preset-share-happy",
+      "title": "流体・物理プリセット共有 happy",
+      "status": "ready",
+      "tags": [
+        "webapp"
+      ],
+      "presetName": "Starter",
+      "parameters": "gravity=9.8; viscosity=0.45",
+      "previewUrl": "public/index.html",
+      "owner": "closed-alpha",
+      "stabilityNote": "流体・物理プリセット共有 の確認観点"
+    }
+  ]
+}
