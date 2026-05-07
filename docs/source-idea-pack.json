@@ -1,0 +1,66 @@
+{
+  "rank": 76,
+  "domain": "WebApp",
+  "ideaNo": 10,
+  "ideaName": "流体・物理プリセット共有",
+  "repository": "fluid-physics-preset-share",
+  "publish": "GitHub Pages / GitHub Release",
+  "createdIdeaLookup": {
+    "exactPathFirst": "D:/AI/WebApp/created_idea_010_fluid-physics-preset-share",
+    "exactPathExists": true,
+    "fallbackSearched": false,
+    "fallbackResults": [],
+    "notes": "完全一致の created_idea と ZIP を使用した。"
+  },
+  "zipLookup": {
+    "exactZip": "D:/AI/WebApp/created_idea_010_fluid-physics-preset-share/idea_010_fluid-physics-preset-share.zip",
+    "exactZipExists": true,
+    "requiredFiles": [
+      "metadata.json",
+      "README.md",
+      "01_REQUIREMENTS.md",
+      "02_SPECIFICATION.md",
+      "03_DESIGN.md",
+      "04_IMPLEMENTATION_PLAN.md",
+      "05_TEST_PLAN.md",
+      "06_RELEASE_CHECKLIST.md"
+    ],
+    "missingRequiredFiles": []
+  },
+  "zipMetadata": {
+    "domain": "WebApp",
+    "no": 10,
+    "platform": "WebApp",
+    "field": "Webアプリ",
+    "integration": "",
+    "idea": "流体・物理プリセット共有",
+    "overview": "Fluidやphysicsシミュレーションのプリセットを保存、比較、公開する。 入力、確認、履歴保存、次アクションを同じ作業単位で扱えるようにする。",
+    "problem": "調整値や見た目の差が後から再現しにくい。",
+    "similar": "Notion, Airtable, Trello, Google Sheets, Home Assistant, WordPress, Netlify CMS",
+    "diff": "設定、スクショ、説明文を1つの共有カードにする。",
+    "parent": "Apps",
+    "startPromptFile": "START_PROMPT.md",
+    "documents": [
+      "START_PROMPT.md",
+      "README.md",
+      "01_REQUIREMENTS.md",
+      "02_SPECIFICATION.md",
+      "03_DESIGN.md",
+      "04_IMPLEMENTATION_PLAN.md",
+      "05_TEST_PLAN.md",
+      "06_RELEASE_CHECKLIST.md",
+      "metadata.json"
+    ],
+    "repositoryName": "fluid-physics-preset-share",
+    "repositoryTitle": "fluid-physics-preset-share",
+    "zipFile": "idea_010_fluid-physics-preset-share.zip"
+  },
+  "metadataRepositoryMatches": true,
+  "metadataZipMatches": true,
+  "initialRepositoryReadme": {
+    "existedBeforeCreation": false,
+    "note": "正式 repo が存在しなかったため README.md は存在しないと記録し、domain docs と created_idea ZIP を根拠に作成した。"
+  },
+  "mojibakePolicy": "ZIP本文や既存Markdownは丸写しせず、PICKUP行、metadata、domain docsから正式docsを再構成する。",
+  "unstableEvidencePolicy": "ZIPサイズ、生成時刻、絶対一時パスはQCDS固定根拠に使わない。"
+}
