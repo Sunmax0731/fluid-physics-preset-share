@@ -1,0 +1,13 @@
+{
+  "product": "fluid-physics-preset-share",
+  "title": "流体・物理プリセット共有",
+  "domain": "WebApp",
+  "ideaNo": 10,
+  "platformType": "browser-web",
+  "expectedPublicTarget": "GitHub Pages / GitHub Release",
+  "browser": {
+    "evidence": "dist/web-smoke-result.json"
+  },
+  "android": null,
+  "evidence": "dist/platform-runtime-gate-result.json"
+}
